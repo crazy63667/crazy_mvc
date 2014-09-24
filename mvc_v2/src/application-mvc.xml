@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mvc>
+	<!-- 配置扫描路径，可扫描本路径及其子路经的action -->
+	<scan location="org.test" />
+
+</mvc>
